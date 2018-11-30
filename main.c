@@ -81,13 +81,7 @@ int main(int argc, char** argv) {
         }
        
         
-        //while (fscanf(filePointer, "%f", &tempNumber) != EOF)
-        //    printf ("%f \n", tempNumber);
- 
-        
-    
-    
-    
+      
     
 
     return (EXIT_SUCCESS);
